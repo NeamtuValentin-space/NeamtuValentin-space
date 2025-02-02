@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 I'm Valentin a QA Automation Engineer and I want to become a skilled Developer.
 
 <!--
 **NeamtuValentin-space/NeamtuValentin-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
