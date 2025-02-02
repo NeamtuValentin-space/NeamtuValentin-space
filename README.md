@@ -3,8 +3,11 @@
 
 <!--
 **NeamtuValentin-space/NeamtuValentin-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+📈 My Goals:
+- Become a full-stack developer.
+- Master design patterns and architecture principles.
+- Build and contribute to open-source projects.
+- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
