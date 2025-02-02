@@ -1,6 +1,8 @@
 ## Hi 👋 I'm Valentin, a QA Automation Engineer
 🚀 Aspiring Developer | 💡 Problem Solver | 🔍 Quality Advocate
 
+I'm a passionate **QA Automation Engineer** dedicated to ensuring **software is reliable**, **scalable**, and **bug-free**. While I specialize in identifying system issues, I often find myself **brainstorming solutions** to fix those problems. This mindset has inspired me to expand my expertise and pursue a **future** as a **skilled developer**, focused on building robust, innovative solutions. **Taking ownership** of both **quality** and **development** feels like the natural next step in my **career**.
+
 📈 My Goals:
 - Become a full-stack developer.
 - Master design patterns and architecture principles.
