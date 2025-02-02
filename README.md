@@ -9,7 +9,9 @@ I'm a passionate **QA Automation Engineer** dedicated to ensuring **software is 
 - 🌐 Build and contribute to open-source projects.
 
 💻 I love creating software and solving problems.
+
 🥊 I stay active with workouts and cycling.
+
 ⛰️ I enjoy hiking and spending time in nature.
 <!--
 **NeamtuValentin-space/NeamtuValentin-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
